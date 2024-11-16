@@ -5,5 +5,15 @@ My own project, where there are tests of blur and Seek bar settings, this applic
 With love, @Android_xDev </br>
 https://t.me/android_xdev </br>
 created in the app Code Assist </br>
+
+-------
+
+### install :
+1. Download BlurView.zip
+2. Unzip the archive BlurView.zip
+3. run project via code asset
+   </br>
+
+
 ### Screenshot: </br>
 ![ss1](./ss1.jpg)
