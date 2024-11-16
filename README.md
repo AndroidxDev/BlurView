@@ -5,5 +5,5 @@ My own project, where there are tests of blur and Seek bar settings, this applic
 With love, @Android_xDev </br>
 https://t.me/android_xdev </br>
 created in the app Code Assist </br>
-Screenshots: </br>
-
+### Screenshot: </br>
+![ss1](./ss1.jpg)
